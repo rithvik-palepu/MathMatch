@@ -34,16 +34,23 @@ Platforms: iOS
 <img width="208" alt="image" src="https://github.com/user-attachments/assets/7552de6e-5b6f-4b51-839b-76b253fc61d1" />
 
 # Future Improvements
-- Leaderboard (Schoolwide possibly)
+- Leaderboard (Schoolwide, possibly)
 - Competitive school-wide/ class-wide system
-- Custom, AI Driven, personalized question sets
-- Streaks and daily challanges
+- Custom, AI-driven, personalized question sets
+- Streaks and daily challenges
 
 # Running the App
 1) Open "MathMatch.xcodeproj" in XCode 15+
 2) Ensure a valid team is selected
 3) Connect a physical iOS device or run on integrated simulator (Bonus tip - if running on physical device, ensure developer mode is on!)
-4) Ensure build is successful and run!
+4) Ensure the build is successful and run!
+
+# Assets and Media
+| "MathMatch-logo.png" | Logo | [Generated in Canva] | Free for use in this app only |
+
+| `correct-6033.mp3` | Sound Effect | [Pixabay] | Royalty-free (https://pixabay.com/sound-effects/correct-6033/) |
+
+| `wrong-47985.mp3` | Sound Effect | [Pixabay] | Royalty-free (https://pixabay.com/sound-effects/wrong-47985/) |
 
 # License
 MIT License - You can fork and improve if you like!
