@@ -12,7 +12,15 @@ progress with your friends!
 
 # Built with
 Languages: Swift
-Frameworks: SwiftUI (Core framework for UI layout), Foundation (Basic types and local storage), AVFoundation (SFX)
+
+Frameworks: 
+
+| [SwiftUI](https://developer.apple.com/xcode/swiftui/) | UI framework used to for game interface | Apple SDK License |
+
+| [AVFoundation](https://developer.apple.com/documentation/avfoundation) | Used to handle sound playback for correct/wrong answers | Apple SDK License |
+
+| [UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults) | Used for local storage (coins, levels, settings) | Apple SDK License |
+
 Platforms: iOS
 
 # Screenshots 
