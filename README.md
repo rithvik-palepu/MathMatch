@@ -1,14 +1,22 @@
 # MathMatch
 
+By: Rithvik Palepu, Barbod Ramez
+Woodinville High School
+Woodinville, WA
+2024-2025 Mobile App Development State Finalist, National Qualifier
+
+
 MathMatch is an educational iOS game built with SwiftUI that helps users sharpen their mental math skills in a fun and interactive way. 
-Match math problems with the correct answers across progressively challenging levels, earn coins, buy hints, unlock themes, and share your
+Built for the 2024-2025 FBLA Mobile Application Development Event, MathMatch enables students from pre-elementary to middle school who
+struggle with the traditional learning system, a rewarding and engaging solution to practice and hone their math skills.
+Students match math problems with the correct answers across progressively challenging levels, earn coins, buy hints, unlock themes, and share your
 progress with your friends!
 
 # Features
 1) Level Progression System: Start from simple arithmetic and unlock more complex algebraic problems as you level up.
 2) Retro-Based UI: Experience a sleek, arcade-ish feeling when playing the game that keeps the light and engaging.
 3) Integrated Reward System: Earn coins with each level completed and use coins to unlock new themes and buy hints!
-4) Social Media Integration: Share level progress on Social Media after completing a leveL!
+4) Social Media Integration: Share level progress on Social Media after completing a level!
 
 # Built with
 Languages: Swift
@@ -42,7 +50,7 @@ Platforms: iOS
 # Running the App
 1) Open "MathMatch.xcodeproj" in XCode 15+
 2) Ensure a valid team is selected
-3) Connect a physical iOS device or run on integrated simulator (Bonus tip - if running on physical device, ensure developer mode is on!)
+3) Connect a physical iOS device or run on integrated simulator (Bonus tip - if running on a physical device, ensure developer mode is on!)
 4) Ensure the build is successful and run!
 
 # Assets and Media
